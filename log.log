@@ -1,0 +1,590 @@
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 1, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 2, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 3, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 4, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 5, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 6, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 7, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 8, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 9, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 10, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 11, y - 0
+19:45:26 [DEBUG] (1) hecto::editor: height of document 177
+19:45:26 [DEBUG] (1) hecto::editor: Cursor position: x - 12, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 13, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 14, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 15, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 16, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 17, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 18, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 19, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 20, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 21, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 22, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 23, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 24, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 25, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 26, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 27, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 28, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 29, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 30, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 31, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 32, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 33, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 34, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 35, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 36, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 37, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 38, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 39, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 40, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 41, y - 0
+19:45:27 [DEBUG] (1) hecto::editor: height of document 177
+19:45:27 [DEBUG] (1) hecto::editor: Cursor position: x - 42, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 43, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 44, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 45, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 46, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 47, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 48, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 49, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 51, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 52, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 53, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 54, y - 0
+19:45:28 [DEBUG] (1) hecto::editor: height of document 177
+19:45:28 [DEBUG] (1) hecto::editor: Cursor position: x - 55, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 56, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 57, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 58, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 59, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 60, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 61, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 62, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 63, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 64, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 65, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 66, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 67, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 68, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 69, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 70, y - 0
+19:45:29 [DEBUG] (1) hecto::editor: height of document 177
+19:45:29 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:30 [DEBUG] (1) hecto::editor: height of document 177
+19:45:30 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 0
+19:45:31 [DEBUG] (1) hecto::editor: height of document 177
+19:45:31 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:32 [DEBUG] (1) hecto::editor: height of document 177
+19:45:32 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:32 [DEBUG] (1) hecto::editor: height of document 177
+19:45:32 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:32 [DEBUG] (1) hecto::editor: height of document 177
+19:45:32 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:32 [DEBUG] (1) hecto::editor: height of document 177
+19:45:32 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:32 [DEBUG] (1) hecto::editor: height of document 177
+19:45:32 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:32 [DEBUG] (1) hecto::editor: height of document 177
+19:45:32 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:33 [DEBUG] (1) hecto::editor: height of document 177
+19:45:33 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 0
+19:45:33 [DEBUG] (1) hecto::editor: height of document 177
+19:45:33 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 0
+19:45:33 [DEBUG] (1) hecto::editor: height of document 177
+19:45:33 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 0
+19:45:33 [DEBUG] (1) hecto::editor: height of document 177
+19:45:33 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:33 [DEBUG] (1) hecto::editor: height of document 177
+19:45:33 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 0
+19:45:33 [DEBUG] (1) hecto::editor: height of document 177
+19:45:33 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 70, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 69, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 68, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 67, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 66, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 65, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 64, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 63, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 62, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 61, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 60, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 59, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 58, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 57, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 56, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 55, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 54, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 53, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 52, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 51, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 0
+19:45:34 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:34 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:34 [DEBUG] (1) hecto::editor: height of document 177
+19:45:34 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 1
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 2
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 3
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 4
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 5
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 6
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 7
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 8
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 9
+19:45:35 [DEBUG] (1) hecto::editor: offset y: 0
+19:45:35 [DEBUG] (1) hecto::editor: height of terminal 62
+19:45:35 [DEBUG] (1) hecto::editor: height of document 177
+19:45:35 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 51, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 52, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 53, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 54, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 55, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 56, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 57, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 58, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 59, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 60, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 61, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 62, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 63, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 64, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 65, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 66, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 67, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 68, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 69, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 70, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 8
+19:45:36 [DEBUG] (1) hecto::editor: height of document 177
+19:45:36 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:37 [DEBUG] (1) hecto::editor: height of document 177
+19:45:37 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:38 [DEBUG] (1) hecto::editor: height of document 177
+19:45:38 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:38 [DEBUG] (1) hecto::editor: height of document 177
+19:45:38 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:39 [DEBUG] (1) hecto::editor: height of document 177
+19:45:39 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 8
+19:45:39 [DEBUG] (1) hecto::editor: height of document 177
+19:45:39 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:39 [DEBUG] (1) hecto::editor: height of document 177
+19:45:39 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:40 [DEBUG] (1) hecto::editor: height of document 177
+19:45:40 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 8
+19:45:40 [DEBUG] (1) hecto::editor: height of document 177
+19:45:40 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 8
+19:45:40 [DEBUG] (1) hecto::editor: height of document 177
+19:45:40 [DEBUG] (1) hecto::editor: Cursor position: x - 70, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:44 [DEBUG] (1) hecto::editor: height of document 177
+19:45:44 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:45 [DEBUG] (1) hecto::editor: height of document 177
+19:45:45 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:45 [DEBUG] (1) hecto::editor: height of document 177
+19:45:45 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:45 [DEBUG] (1) hecto::editor: height of document 177
+19:45:45 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:45 [DEBUG] (1) hecto::editor: height of document 177
+19:45:45 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:46 [DEBUG] (1) hecto::editor: height of document 177
+19:45:46 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:46 [DEBUG] (1) hecto::editor: height of document 177
+19:45:46 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:46 [DEBUG] (1) hecto::editor: height of document 177
+19:45:46 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:46 [DEBUG] (1) hecto::editor: height of document 177
+19:45:46 [DEBUG] (1) hecto::editor: Cursor position: x - 73, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 72, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 71, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 70, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 69, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 68, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 67, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 66, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 65, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 64, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 63, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 62, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 61, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 60, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 59, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 58, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 57, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 56, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 55, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 54, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 53, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 52, y - 8
+19:45:47 [DEBUG] (1) hecto::editor: height of document 177
+19:45:47 [DEBUG] (1) hecto::editor: Cursor position: x - 51, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 50, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 49, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 48, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 47, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 46, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 45, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 44, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 43, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 42, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 41, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 40, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 39, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 38, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 37, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 36, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 35, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 34, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 33, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 32, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 31, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 30, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 29, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 28, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 27, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 26, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 25, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 24, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 23, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 22, y - 8
+19:45:48 [DEBUG] (1) hecto::editor: height of document 177
+19:45:48 [DEBUG] (1) hecto::editor: Cursor position: x - 21, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 20, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 19, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 18, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 17, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 16, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 15, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 14, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 13, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 12, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 11, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 10, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 9, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 8, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 7, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 6, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 5, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 4, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 3, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 2, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 1, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:49 [DEBUG] (1) hecto::editor: height of document 177
+19:45:49 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 0, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 1, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 2, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 3, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 4, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 5, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 6, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 7, y - 8
+19:45:50 [DEBUG] (1) hecto::editor: height of document 177
+19:45:50 [DEBUG] (1) hecto::editor: Cursor position: x - 8, y - 8
